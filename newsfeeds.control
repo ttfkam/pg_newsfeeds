@@ -1,0 +1,7 @@
+# newsfeeds extension
+# Miles Elam <miles@geekspeak.org>
+# Depends on plpgsql
+
+comment = 'news aggregation schema and tools for GeekSpeak'
+default_version = '1.0.0'
+relocatable = true
