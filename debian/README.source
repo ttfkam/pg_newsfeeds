@@ -1,0 +1,9 @@
+postgresql-newsfeeds for Debian
+------------------
+
+PostgreSQL extension for gathering news
+
+Use "CREATE EXTENSION newsfeeds" to load into your database.
+
+ -- Miles Elam <miles@geekspeak.org>  Sat, 14 Jan 2017 12:01:37 -0800
+

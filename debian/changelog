@@ -1,0 +1,5 @@
+postgresql-newsfeeds (1.0-1) xenial; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Miles Elam <miles@geekspeak.org>  Sat, 14 Jan 2017 12:01:37 -0800

@@ -1,0 +1,13 @@
+Source: postgresql-newsfeeds
+Section: universe/database
+Priority: optional
+Maintainer: Miles Elam <miles@geekspeak.org>
+Build-Depends: debhelper (>=9), postgresql-server-dev-all
+Standards-Version: 3.9.7
+Homepage: https://github.com/ttfkam/pg_newsfeeds.git
+Vcs-Git: https://github.com/ttfkam/pg_newsfeeds.git
+
+Package: postgresql-newsfeeds
+Architecture: all
+Depends: postgresql-server (>=9.5), ${shlibs:Depends}, ${misc:Depends}
+Description: PostgreSQL extension for gathering news
